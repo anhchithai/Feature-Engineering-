@@ -1,7 +1,7 @@
 # Feature-Engineering-
-Feature Engineering is one of the keys to unlocking and power predictive insight. This, therefore, is a crucial step before instantiate model.
+Feature Engineering is one of the keys to unlocking and power predictive insight. This, therefore, is a crucial step before instantiating the model.
 
-In this repository I include two different tasks of feature engineering. One of them I have learnt from the BCG virtual internship for Data Science.
+In this repository I include two different tasks of feature engineering. One of them I have learnt from the BCG virtual internship for Data Science. The other is a part of a small project I have done from my bootscamp with the AllWomen.
 
 ## BCG Virtual Internship
 ### Data: client_data, price_data
